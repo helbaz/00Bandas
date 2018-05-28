@@ -10,6 +10,7 @@ public class Main {
 
     public static class App extends GraphicsProgram {
         public final void run() {
+            Genero genero=Genero.HEMBRA;
 
         }
     }
